@@ -1,7 +1,7 @@
 #######################################################################
 # The list contains domains problematic and to block in my network    #
 #######################################################################
-unmegle.org
+uhmegle.org
 omegle.com
 monkey.app
 emeraldchat.com
