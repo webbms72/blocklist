@@ -1,19 +1,25 @@
 #######################################################################
-# The list contains domains problematic and to block in my network    #
+# The list contains random chat domains problematic and to block in my network    #
 #######################################################################
-uhmegle.org
-omegle.com
-monkey.app
+bazoocam.org
+camgo.com
+camsurf.com
+chatblink.com
+chatliv.com
+chatroulette.com
+chatspin.com
+chitchat.gg
 emeraldchat.com
 holla.world
-bazoocam.org
-tango.me
-emeraldchat.com
+imeetzu.com
 luckycrush.live
-talkwithstranger.com
-chitchat.gg
-y99.in
 meetyou.me
-chatroulette.com
+monkey.app
+omegle.com
+supportiv.com
+talkwithstranger.com
+tinychat.com
+tango.me
+uhmegle.org
+y99.in
 yesichat.com
-chatblink.com
