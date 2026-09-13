@@ -18,9 +18,9 @@ https://raw.githubusercontent.com/webbms72/blocklist/main/randomchat-block.txt
 
 ## List Details
 
-- **Domains:** 346
+- **Domains:** 376
 - **Format:** Plain domain list (one per line), Pi-hole compatible
-- **Last updated:** August 2026
+- **Last updated:** September 2026
 - **Scope:** Anonymous/random chat sites, video roulette platforms, Omegle-style alternatives
 
 ## License
